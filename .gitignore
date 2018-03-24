@@ -36,3 +36,11 @@ Debug/
 #Editor
 .vs/
 .vscode/
+
+#db files
+*.db
+*.opendb
+
+#Misc
+ipch/
+

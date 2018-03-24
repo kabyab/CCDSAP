@@ -15,6 +15,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CCDSAP.CHN15A", "CCDSAP.CHN
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CCDSAP.ALTARAY", "CCDSAP.ALTARAY\CCDSAP.ALTARAY.vcxproj", "{9B3BD9AD-652D-423A-A94F-96799DA17A9A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3437DF2A-E59A-4E32-AB33-88A67A848008}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
